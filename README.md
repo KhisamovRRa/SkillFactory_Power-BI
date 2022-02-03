@@ -149,3 +149,5 @@ https://docs.google.com/spreadsheets/d/1sUCjHEgYK0aES9jHwQf0AkUnykWm69PiW5yDZGIN
 
 ## Ссылка на датасет
 Ссылки нет, так как данные берутся через API с сайта с открытыми данными.
+
+* * * * *
